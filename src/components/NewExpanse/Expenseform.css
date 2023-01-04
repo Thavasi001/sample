@@ -1,0 +1,67 @@
+#expense{
+    background-color:lightgreen;
+    height: 250px;
+    margin-top: 80px;
+    margin-left: 40px;
+    width: 650px;
+    padding: 10px;
+    border-radius: 50px;
+
+   
+}
+label{
+    font-weight: bold;
+}
+#title3{
+    margin-left: 80px;
+  
+}
+#title1{
+    margin-left: 80px;
+    margin-top: 15px;
+    padding: 8px;
+    border-radius: 10px;
+    border: 1px solid black;
+    
+}
+#amt{
+    margin-left:270px;
+}
+#amt1{
+    margin-left: 120px;
+    margin-top: 15px;
+    padding: 8px;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+.date{
+    margin-left: 80px;
+    
+    
+}
+.date1{
+    margin-left: 80px;
+    margin-top: 15px;
+    padding: 8px;
+    border-radius: 10px;
+    border: 1px solid black;
+    
+}
+#btn1{
+    margin-top: 30px;
+    margin-left: 350px;
+    padding: 15px;
+    border-radius: 10px;
+}
+#btn2{
+    margin-left: 60px;
+    padding: 15px;
+    border-radius: 10px;
+}
+#click{
+    padding: 15px;
+    margin-left: 280px;
+    margin-top: 110px;
+    border-radius: 10px;
+    background-color:lightcoral;
+}

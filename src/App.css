@@ -1,0 +1,64 @@
+ /* #a{
+  height: 200px;
+  width: 500px;
+}
+.div{
+  background-color: aqua;
+}
+#ani{
+  text-align: center;
+  color: red;
+}
+#para{
+  text-indent: 50px;
+  word-spacing: 5px;
+ text-transform: capitalize;
+ line-height: 1.5;
+ 
+}
+#hii{
+  text-align: center;
+}
+#p{
+  text-indent:50px;
+}  */
+
+
+    
+
+   /* body{
+    background-color:yellow;
+    width: 100%;
+    height: 100%;
+    
+   }
+   #cla{
+    background-color: white;
+    border: 1px solid black;
+    height: 200px;
+    width: 150px;
+    margin:auto;
+    display: flex;
+    margin-top:250px ;
+    } */
+    #Expenseapp{
+        margin-left:250px;
+        /* display: flex; */
+    }
+  
+    .div{
+      background-color: black;
+      margin-top: 100px;
+      height: 50%;
+      padding-top: 5px;
+      padding-bottom: 10px;
+      border-radius: 25px;
+
+      
+      }
+    #bg{
+      padding-left: 300px;
+      padding-right: 300px;
+    }
+
+ 
